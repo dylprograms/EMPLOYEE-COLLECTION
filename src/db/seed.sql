@@ -17,8 +17,8 @@ VALUES
     ('Backend Developer', 115000, 2),
     ('Operations Manager', 130000, 3),
     ('Logistics Specialist', 95000, 3),
-    ('HR Manager', 120000, 4),
-    ('Recruiter', 70000, 4);
+    ('HR Manager', 120000, 1),
+    ('Recruiter', 70000, 3);
 
 INSERT INTO employee
     (first_name, last_name, role_id, manager_id)
@@ -28,6 +28,6 @@ VALUES
     ('Emma', 'Garcia', 3, NULL),
     ('Michael', 'Lee', 4, 3),
     ('Sophia', 'Martinez', 5, NULL),
-    ('James', 'Clark', 6, 5),
+    ('James', 'Clark', 4, 5),
     ('Olivia', 'Lewis', 7, NULL),
     ('William', 'Walker', 8, 7);

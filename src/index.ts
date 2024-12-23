@@ -66,7 +66,7 @@ function MainPage() {
       case 'UPDATE_EMPLOYEE_ROLE':
         updateEmployeeRole();
         break;
-      case 'Show_DEPARTMENTS':
+      case 'SHOW_DEPARTMENTS':
         showDepartments();
         break;
       case 'ADD_DEPARTMENT':
