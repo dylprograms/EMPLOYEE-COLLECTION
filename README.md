@@ -17,7 +17,7 @@ The Employee collection System is a command-line application designed to manage 
 
 ## Installation
 1. Install [Node.js](https://nodejs.org) and [npm](https://www.npmjs.com/).
-2. Clone the repository to your local machine.
+2. Clone the repository to your local machine. [Code](https://github.com/dylprograms/EMPLOYEE-COLLECTION)
 3. Run the following command to install dependencies:
    ```bash
    npm install
