@@ -1,5 +1,5 @@
 {
-  "name": "employee-tracker",
+  "name": "employee-collection",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -10,7 +10,7 @@
     "start": "node dist/index.js"
   },
   "dependencies": {
-    "asciiart-logo": "^0.2.6",
+    "asciiart-logo": "^0.2.7",
     "dotenv": "^16.4.5",
     "inquirer": "8.2.4",
     "pg": "^8.11.3"
