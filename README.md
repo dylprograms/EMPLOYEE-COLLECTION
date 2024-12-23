@@ -51,7 +51,7 @@ This project is licensed under the MIT license. See the LICENSE file for details
 
 For questions or suggestions, feel free to reach out via:
 
-GitHub: [dylyoungprograms](https://github.com/dylprograms/EMPLOYEE-COLLECTION)
+GitHub: [dylyoungprograms](https://github.com/dylprograms)
 Email: dlyoungworking@gmail.com
 
 
