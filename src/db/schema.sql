@@ -27,20 +27,4 @@ CREATE TABLE employee (
   CONSTRAINT fk_manager FOREIGN KEY (manager_id) REFERENCES employee(id) ON DELETE SET NULL
 );
 
-INSERT INTO department
-    (name)
-VALUES
-    ('Marketing'),
-    ('Technology'),
-    ('Operations'),
-    ('Human Resources');
-
-INSERT INTO role
-    (title, salary, department_id)
-VALUES
-    ('Marketing Manager', 110000, 1),
-    ('Content Strategist', 85000, 1),
-    ('Tech Lead', 140000, 2),
-    ('Backend Developer', 115000, 2),
-    ('Operations Manager', 130000, 3);
 
